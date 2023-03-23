@@ -3,7 +3,7 @@
   <br>
   <a href="discord.gg/univercity"><img src="https://www.grandtheftauto5.fr/images/news/screens-pc-08042015/hd/01.jpg" alt="TontonLeaks - Discord "></a>
   <br>
-  Red Discord Bot
+  TonTonLeaks
   <br>
 </h1>
 <h4 align="center">Serveur Leaks.</h4>
