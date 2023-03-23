@@ -1,16 +1,8 @@
 # TonTonLeak
-<h1 align="center">
-  <br>
-  <a href="https://github.com/Cog-Creators/Red-DiscordBot/tree/V3/develop"><img src="https://imgur.com/pY1WUFX.png" alt="Red - Discord Bot"></a>
-  <br>
-  TontonLeak
-  <br>
-</h1>
-
 <h4 align="center">Serveur Leaks.</h4>
 
 <p align="center">
-  <a href="[https://discord.gg/red](https://discord.gg/hF85kmCSEZ)">
+  <a href="[https://discord.gg/hF85kmCSEZ](https://discord.gg/hF85kmCSEZ)">
     <img src="https://discordapp.com/api/guilds/133049272517001216/widget.png?style=shield" alt="Discord Server">
 </p>
 <p align="center">
@@ -90,15 +82,3 @@ building your own cogs!
 
 Join us on our [Official Discord Server](https://discord.gg/red)!
 
-# License
-
-Released under the [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html) license.
-
-Red is named after the main character of "Transistor", a video game by
-[Super Giant Games](https://www.supergiantgames.com/games/transistor/).
-
-Artwork created by [Sinlaire](https://sinlaire.deviantart.com/) on Deviant Art for the Red Discord
-Bot Project.
-
-This project vendors [discord.ext.menus](https://github.com/Rapptz/discord-ext-menus) package made by Danny Y. (Rapptz) which is distributed under MIT License.
-A copy of this license can be found in the [discord-ext-menus.LICENSE](redbot/vendored/discord-ext-menus.LICENSE) file in the [redbot/vendored](redbot/vendored) folder of this repository.
