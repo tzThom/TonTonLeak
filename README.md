@@ -1,4 +1,3 @@
-# TonTonLeak
 <h1 align="center">
   <br>
   <a href="discord.gg/univercity"><img src="https://www.grandtheftauto5.fr/images/news/screens-pc-08042015/hd/01.jpg" alt="TontonLeaks - Discord "></a>
